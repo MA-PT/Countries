@@ -1,0 +1,15 @@
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\bin\Debug\netstandard2.0\Countries.deps.json
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\bin\Debug\netstandard2.0\Countries.dll
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\bin\Debug\netstandard2.0\ref\Countries.dll
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\bin\Debug\netstandard2.0\Countries.pdb
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Countries.csproj.AssemblyReference.cache
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Countries.AssemblyInfoInputs.cache
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Countries.AssemblyInfo.cs
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Countries.csproj.CoreCompileInputs.cache
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Countries.dll
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\ref\Countries.dll
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Countries.pdb
+C:\Users\Marvin Pineda\source\repos\Countries\Countries\Countries\obj\Debug\netstandard2.0\Details.xaml.g.cs
